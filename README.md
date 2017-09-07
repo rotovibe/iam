@@ -16,3 +16,9 @@ get app features by appId:
 
 
 GET: localhost:3000/applications/[appId]/features
+
+
+
+
+
+
